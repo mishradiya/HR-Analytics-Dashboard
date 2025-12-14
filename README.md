@@ -5,8 +5,10 @@
 
 The HR Analytics Dashboard is an interactive data visualization tool designed to analyze and optimize employee performance, retention, and workforce trends. It provides insights into key HR metrics, helping organizations make data-driven decisions.
 
+## 🤖 Predictive Analytics
 
-![Alt Text](Dashboard.png)
+A machine learning model is used to identify employees at higher risk of attrition based on historical HR data, enabling proactive retention strategies.
+
 
 ## 🔍 Features
 
@@ -71,13 +73,6 @@ streamlit run app.py
 OR, for Power BI users:
 Open the Power BI file and connect it to the dataset.
 
-## 📈 Insights Gained
-
-- **High Attrition Roles** – Identified job roles with high turnover rates and patterns  
-- **Salary & Performance Correlation** – Analyzed how salary impacts employee performance and engagement  
-- **Workforce Diversity Trends** – Examined gender and age distribution within various departments  
-- **Retention Strategies** – Suggested actionable steps to improve employee satisfaction and reduce attrition  
-
 ---
 
 ## 📜 Future Improvements
@@ -88,9 +83,11 @@ Open the Power BI file and connect it to the dataset.
 - [ ] **Integration with HRMS** – Connect with enterprise Human Resource Management Systems for real-time insights  
 
 
-## 🏆 Contributions
+## 📈 Business Insights & Impact
 
-Feel free to fork this repository and contribute to improve this project! If you have any suggestions, open an issue or create a pull request.
+- Identified specific job roles with consistently high attrition, highlighting key retention risks.
+- Found a strong relationship between compensation levels and employee performance and engagement.
+- Observed that departments with balanced workforce distribution showed greater performance stability.
 
 
 
